@@ -1,4 +1,4 @@
-    <h1>Chat Application</h1>
+<h1>Chat Application</h1>
     <h3>By, Subhadip Maity</h3>
     <h2>Overview</h2>
     <p>This is a real-time chat application built with React for the frontend and Node.js/Express with Socket.IO for the backend. Users can engage in real-time messaging with emoji support.</p>
